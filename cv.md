@@ -6,7 +6,7 @@
 * **Tel.**: +375 25 949-29-98
 
 ## Short summary:
-I want to beacome a Full Stack Engineer.
+I want to become a Full Stack Engineer.
 
 ## Code example:
 
